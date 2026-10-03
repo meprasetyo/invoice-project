@@ -52,8 +52,8 @@ Pastikan sudah terinstall di komputer:
 ### 1. Clone Repository
 
 ```bash
-git clone <URL_REPOSITORY_KAMU>
-cd boilerplate-nextjs
+git clone https://github.com/meprasetyo/invoice-project.git
+cd invoice-project
 ```
 
 ---
