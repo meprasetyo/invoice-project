@@ -1,0 +1,7 @@
+echo "Running pre-commit hook, this might take a moment...";
+echo "Checking for type errors...";
+pnpm tsc --noEmit
+
+# echo "Formating Code...";
+# pnpm prettier --write .
+echo "Done"

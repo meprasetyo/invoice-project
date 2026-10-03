@@ -1,0 +1,11 @@
+node_modules
+.env.dev
+.env
+.eslintrc.json
+.gitignore
+.gitmodules
+.prettier.json
+.prettierignore
+.vscode
+.next
+shared
